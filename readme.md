@@ -10,8 +10,6 @@ In this project the data from [PISA-2012](http://www.oecd.org/pisa/keyfindings/p
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
 - There is a difference between the scores for different genders on average, however the individual differences within a gender are larger.
 <img src="math_read_science_box.png" width="100%">
 
@@ -44,7 +42,7 @@ It may be a consequence of large classes. If there is 20 pupils, while a lesson 
 
 [See Procedures and Construct Validation of Context Questionnaire Data](https://www.oecd.org/pisa/sitedocument/PISA-2015-Technical-Report-Chapter-16-Procedures-and-Construct-Validation-of-Context-Questionnaire-Data.pdf) for the explanation of the abbreviations.
 
-<img src="corr_pos.png.png" width="100%">
+<img src="corr_pos.png" width="100%">
 
 - The strongest correlation of math scores is with the grade. 
 
@@ -69,7 +67,7 @@ This indicates that children in Germany have a good access to the education of m
 
 - It is surprising to find that "student orientation" of a teacher anti-correlates with the grade.
 
-<img src="corr_neg.png.png" width="100%">
+<img src="corr_neg.png" width="100%">
 
 
 - All negative correlations are weaker than positive correlations. 
